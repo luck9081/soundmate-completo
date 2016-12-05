@@ -1,0 +1,14 @@
+ar\edu\grupoesfera\cursospring\modelo\TestFarmacia.class
+ar\edu\grupoesfera\cursospring\modelo\SpringTest.class
+ar\edu\grupoesfera\cursospring\controladores\TestLoguearse.class
+ar\edu\grupoesfera\cursospring\modelo\PersonaTest.class
+ar\edu\grupoesfera\cursospring\controladores\TestRegistrarse.class
+ar\edu\grupoesfera\cursospring\dao\BusquedaDaoTest.class
+ar\edu\grupoesfera\cursospring\modelo\TestComunaBarrio.class
+ar\edu\grupoesfera\cursospring\modelo\TestDireccion.class
+ar\edu\grupoesfera\cursospring\controladores\TestBusqueda.class
+ar\edu\grupoesfera\cursospring\dao\PerfilDaoTest.class
+ar\edu\grupoesfera\cursospring\dao\BandaDaoTest.class
+ar\edu\grupoesfera\cursospring\controladores\TestBanda.class
+ar\edu\grupoesfera\cursospring\dao\UsuarioDaoTest.class
+ar\edu\grupoesfera\cursospring\controladores\TestPerfil.class
