@@ -1,0 +1,53 @@
+
+- soundmate/luck/editarPerfil
+
+- soundmate/MiBanda/editarBanda
+
+
+
+- subir imagen de perfil: usuario y banda
+
+- poder tener más de un instrumento en "editarPerfil" (implica una tabla Instrumento)
+
+
+
+- poder añadir/eliminar géneros musicales a la banda
+
+- poder formar parte de múltiples bandas
+
+- buscar bandas por su genero (combo que se carga con los generos de la tabla Genero)
+
+
+
+- lista de amigos (con solicitud de amistad)
+
+- estado de amistad: pendiente, aceptado, no aceptado, eliminado (puede volver a solicitar), bloqueado (no puede volver a solicitar).
+
+
+
+- solicitud de adicion a la banda
+
+
+
+---------------------------------------------------------------------
+
+	SOLICITUDES, TANTO PARA USUARIO COMO PARA BANDA
+	DEBERIAN INCLUIR UN APARTADO DE NOTIFICACIONES
+	EN EL NAVBAR
+
+---------------------------------------------------------------------
+
+
+
+- permitir a los integrantes expulsar a otro/s integrantes.
+
+- si la banda no tiene integrantes, permitir re-integrarse a la banda a todos aquellos que hayan formado parte alguna vez de ella, y que no hayan sido expulsados de ella.
+
+
+- poder editar/eliminar las publicaciones
+
+
+
+- al añadir usuario a la banda propia, preguntar a cuál de mis bandas lo añado
+
+- así como existe "solicitar unirse a banda", debe existir "solicitar añadir usuario a mi banda".

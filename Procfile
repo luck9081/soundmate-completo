@@ -1,1 +1,1 @@
-web: java -jar target/dependency/webapp-runner.jar target/Taller-Web-1.war
+web: java -jar target/dependency/webapp-runner.jar --expand-war
