@@ -36,9 +36,9 @@
 	<bean id="dataSource"
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://localhost:3306/soundmate"  />
-		<property name="username" value="root" />
-		<property name="password" value="" />
+		<property name="url" value="jdbc:mysql://sql6.freemysqlhosting.net:3306/sql6148160"  />
+		<property name="username" value="sql6148160" />
+		<property name="password" value="SMLTCyB3C2" />
 	</bean>
 	<bean id="transactionManager"
 		class="org.springframework.orm.hibernate5.HibernateTransactionManager">
